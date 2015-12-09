@@ -1,0 +1,41 @@
+.content-area{
+    padding:25px 0 25px 0;
+}
+
+.footer-area{
+    background-color: yellowgreen;
+    color: #FFFFFF;
+}
+
+img{
+    width:100%;
+}
+
+.page1{
+    background: linear-gradient(#c9c9c9,white);
+    background-size:auto 100%;
+}
+
+.page2{
+    background-color: darkcyan;
+}
+
+.page3{
+    background-color: gray;
+}
+
+.page4{
+    background-color: firebrick;
+}
+
+.page5{
+    background-color: greenyellow;
+}
+
+.page6{
+    background-color: rosybrown;
+}
+
+.page8{
+    background-color: darkgrey;
+}
